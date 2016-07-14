@@ -11,8 +11,6 @@ Please print 1 each of the following:
 - `TF Case - Back.stl`
 - `TF Case - Buttons.stl`
 
-Do not print `TF Case - Complete.stl` as this contains the complete model for viewing only.
-
 The case was designed in Autodesk 123D Design - the original design files are included.
 
 Resolution/layer height is 0.2mm.  This was designed to be printed on a FlashForge Creator Pro with a 0.4mm nozzle.
