@@ -17,5 +17,5 @@ The case was designed in Autodesk 123D Design - the original design files are in
 
 Resolution/layer height is 0.2mm.  This was designed to be printed on a FlashForge Creator Pro with a 0.4mm nozzle.
 
-![](Rear.png)
+This can also be found on [Thingiverse here](http://www.thingiverse.com/thing:1636905)!
 
